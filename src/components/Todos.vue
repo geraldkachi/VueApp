@@ -14,7 +14,7 @@ export default {
     name: "Todos",
     components: {
         TodoItem    
-    },
+    }, 
     props: ["todos"]
 }
 </script>
